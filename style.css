@@ -1,1 +1,14 @@
+nav a{
+    font-family: garamond;
+    margin: 30px;
+    padding: 5px;
+    background-color: #483D8B;
+    color: white;
+    border: #483D8B;
+    border-radius: 7px;
+    text-decoration: none;
+}
 
+nav {
+    text-align: center;
+}
